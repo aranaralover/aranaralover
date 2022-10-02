@@ -1,4 +1,5 @@
-about me 
+# about me 
+
 my name is citrine
 
 i like genshin and anything aranara related
